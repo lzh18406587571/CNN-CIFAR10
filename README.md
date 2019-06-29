@@ -1,0 +1,2 @@
+# CNN-CIFAR10
+利用Keras构建简单的CNN识别CIFAR10
